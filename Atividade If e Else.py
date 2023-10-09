@@ -12,9 +12,9 @@ senha = ("123456")
 senha_2 = input("Digite sua senha: ")
 
 if (senha_2 == senha):
-    print("acesso liberado")
+    print("Acesso Liberado")
 else:
-    print("acesso negado")
+    print("Acesso Negado")
 
 a = int(input("Digite um número: "))
 b = int(input("Digite o segundo número: "))
